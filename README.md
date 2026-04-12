@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Alex Lemos
+# 👩🏻‍💻 Alex Lemos
 🎓 Estudante do **Curso Superior de Tecnologia em Sistemas para Internet (CSTSI)** – IFSul Campus Pelotas  
 📚 Atualmente no **4º semestre**  
 💻 Focado em **Desenvolvimento Web** (Front-End, Back-End & Banco de Dados) 
@@ -34,7 +34,6 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alex-lemos&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alex-lemos&layout=compact&theme=radical)
