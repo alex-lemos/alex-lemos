@@ -33,13 +33,6 @@
 
 ---
 
-//## 📊 Estatísticas do GitHub
-//![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alex-lemos&show_icons=true&theme=radical&count_private=true)
-
-//![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alex-lemos&layout=compact&theme=radical)
-
----
-
 ## 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/alex-lemos)   
 
